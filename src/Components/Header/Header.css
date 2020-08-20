@@ -1,0 +1,13 @@
+.Header {
+    background-color: deepskyblue;
+    height: 12vh;
+    display: flex;
+    align-items: center;
+}
+
+.Header h1 {
+    font-size: 25px;
+    padding: 80px;
+    font-weight: 800;
+    font-family: Arial, Helvetica, sans-serif;
+}
